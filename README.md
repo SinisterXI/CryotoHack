@@ -6,5 +6,5 @@ Welcome to the Crypto Hack Solutions repository! This repository contains variou
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/crypto-hack-solutions.git
+git clone https://github.com/SinisterXI/crypto-hack-solutions.git
 cd crypto-hack-solutions
